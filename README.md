@@ -50,13 +50,18 @@ A2 = D4 + D5 + D6 + D7
 Logical circuit of the above expressions is given below:
 
 Truth Table for Encoder 8:3:
+<img width="727" height="540" alt="Screenshot 2025-12-14 091615" src="https://github.com/user-attachments/assets/1ee1fba4-addc-425a-b5fc-bd1814226a94" />
 
 image
-RTl Image: 
+RTl Image: [gates.pdf](https://github.com/user-attachments/files/24147586/gates.pdf)
+<img width="898" height="555" alt="Screenshot 2025-12-14 095519" src="https://github.com/user-attachments/assets/d3242451-1410-4181-a29c-aca352d5dadb" />
 
-Wave Image: 
 
-image
+
+
+Wave Image: [waves.pdf](https://github.com/user-attachments/files/24147584/waves.pdf)
+
+
 Result :
 
 We got the expected and the RTLIMage and wave image
